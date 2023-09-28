@@ -1,1 +1,20 @@
+
 body
+    {
+        background:antiquewhite;
+    }
+
+.ms1
+    {
+        font-size:xxx-large;
+        color:mediumvioletred;
+    }
+.ms2
+    {
+        font-size: x-large;
+        color:orangered;
+    }
+.ms3
+    {
+        color: orange;
+    }
